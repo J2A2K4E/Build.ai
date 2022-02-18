@@ -1,0 +1,1778 @@
+<body>
+  <H1>The 7 elements of .docwrit are Order, Act, Folder, File, Push, Pull, and Perif.</H1>
+  <h2> Input the elements for the variable that you want to create.</h2>
+  <form>
+    <label for=order:>order: </label><input id="order" type="text" /br><br /><br />
+    <label for=act:>act: </label><input id="act" type="text" /br><br /><br />
+    <label for=folder:>folder:</label><input id="folder" type="text" /br><br /><br />
+    <label for=file:>file: </label><input id="file" type="text" /br><br /><br />
+    <label for=push:>push: </label><input id="push" type="text" /br><br /><br />
+    <label for=pull:>pull: </label><input id="pull" type="text" /br><br /><br />
+    <label for=perif:>perif: </label><input id="perif" type="text" /br><br /><br />
+    <label for=addvar:>name: </label><input id="name" type="text" /br><br /><br />
+    <button id="SUBMIT">SUBMIT</button>
+    <script>
+      var submit = document.getElementId("SUBMIT"):
+        submit.onclick = function()(
+          var order = document.getElementId("order").value; document.getElementId("outputOrder").innertext = order;
+          var act = document.getElementId("act").value; document.getElementId("outputAct").innertext = act;
+          var folder = document.getElementId("folder").value; document.getElementId("outputFolder").innertext = folder;
+          var file = document.getElementId("file").value; document.getElementId("outputFile").innertext = file;
+          var push = document.getElementId("push").value; document.getElementId("outputPush").innertext = push;
+          var pull = document.getElementId("pull").value; document.getElementId("outputPull").innertext = pull;
+          var Perif = document.getElementId("Perif").value; document.getElementId("outputPerif").innertext = perif;
+          var name = document.getElementId("name").value; document.getElementId("outputName").innertext = name;
+    </script>
+    <p>
+      <center>The variable you have added is <span id="outputName">----</span>.
+        order: <span id="outputOrder">----</span>
+        act: <span id="outputAct">----</span>
+        folder: <span id="outputFolder">----</span>
+        file: <span id="outputFile">----</span>
+        push: <span id="outputPush">----</span>
+        pull: <span id="outputPull">----</span>
+        perif: <span id="outputPerif">----</span>
+      </center>
+    </p>
+    <br>
+    <style type="text/css" scoped>
+      table.GeneratedTable {
+        width: 100%;
+        background-color: #FFF5EF;
+        border-collapse: collapse;
+        border-width: 3px;
+        border-color: #FFFFFF;
+        border-style: groove;
+        color: #000000;
+      }
+
+      table.GeneratedTable td,
+      table.GeneratedTable th {
+        border-width: 3px;
+        border-color: #FFFFFF;
+        border-style: groove;
+        padding: 20pt;
+      }
+
+      table.GeneratedTable thead {
+        background-color: #FF6900;
+      }
+    </style>
+    <table class="GeneratedTable">
+      <thead>
+        <tr>
+          <th>Order:</th>
+          <th>Act:</th>
+          <th>Folder:</th>
+          <th>File:</th>
+          <th>Push:</th>
+          <th>Pull:</th>
+          <th>Perif:</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </form>
+  <p>The variable you have added is <span id="outputName">----</span>
+    order: <span id="outputOrder">----</span>
+    act: <span id="outputAct">----</span>
+    folder: <span id="outputFolder">----</span>
+    file: <span id="outputFile">----</span>
+    push: <span id="outputPush">----</span>
+    pull: <span id="outputPull">----</span>
+    perif: <span id="outputPerif">----</span>
+  </p>
+  <br>
+  &nbsp
+  </br>
+  <center>
+    <H1>.docwrit</H1>
+  </center>
+  <p>The elements of docwrit are meant to be a .Framework OS that functions with document.ready and document.write to create variables (elements) within your website.</p>
+  <p>The elements are meant to interact within the framework so that redundancy is calculated as a triggering mechanism like most computer algorithms, but in this case it will develope cycles of "smart" redundancy as limiters will delimit by collection and key simultaneously within the command which generates further commands written into the html of any website element. These commands within the .docwrit algorithm then produce design functions relative to the development of applications and elements. In other words, the algorithm writes the app from a simple search entry for an app that has specifications.</p>
+
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>.docwrit</th>
+        <th>order</th>
+        <th>act</th>
+        <th>folder</th>
+        <th>file</th>
+        <th>push</th>
+        <th>pull</th>
+        <th>perif</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>1.1</td>
+        <td>1.2</td>
+        <td>1.3</td>
+        <td>1.4</td>
+        <td>1.5</td>
+        <td>1.6</td>
+        <td>1.7</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>2.1</td>
+        <td>2.2</td>
+        <td>2.3</td>
+        <td>2.4</td>
+        <td>2.5</td>
+        <td>2.6</td>
+        <td>2.7</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>3.1</td>
+        <td>3.2</td>
+        <td>3.3</td>
+        <td>3.4</td>
+        <td>3.5</td>
+        <td>3.6</td>
+        <td>3.7</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>4.1</td>
+        <td>4.2</td>
+        <td>4.3</td>
+        <td>4.4</td>
+        <td>4.5</td>
+        <td>4.6</td>
+        <td>4.7</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>5.1</td>
+        <td>5.2</td>
+        <td>5.3</td>
+        <td>5.4</td>
+        <td>5.5</td>
+        <td>5.6</td>
+        <td>5.7</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>6.1</td>
+        <td>6.2</td>
+        <td>6.3</td>
+        <td>6.4</td>
+        <td>6.5</td>
+        <td>6.6</td>
+        <td>6.7</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>7.1</td>
+        <td>7.2</td>
+        <td>7.3</td>
+        <td>7.4</td>
+        <td>7.5</td>
+        <td>7.6</td>
+        <td>7.7</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <center>
+    <h1>Redundancy Cycle<h1>
+  </center>
+  <table class="GeneratedTable">
+    <tbody>
+      <tr>
+        <td>1.1</td>
+        <td>&nbsp</td>
+        <td>1.7</td>
+      </tr>
+      <tr>
+        <td>2.2</td>
+        <td>&nbsp</td>
+        <td>2.6</td>
+      </tr>
+      <tr>
+        <td>3.3</td>
+        <td>&nbsp</td>
+        <td>3.5</td>
+      </tr>
+      <tr>
+        <td>4.4</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+      </tr>
+      <tr>
+        <td>5.5</td>
+        <td>&nbsp</td>
+        <td>5.3</td>
+      </tr>
+      <tr>
+        <td>6.6</td>
+        <td>&nbsp</td>
+        <td>6.2</td>
+      </tr>
+      <tr>
+        <td>7.7</td>
+        <td>&nbsp</td>
+        <td>7.1</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <center>
+    <h7>Limiters</h7>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.4</td>
+        <td>2.4</td>
+        <td>3.4</td>
+        <td>4.4</td>
+      </tr>
+      <tr>
+        <td>7.4</td>
+        <td>6.4</td>
+        <td>5.4</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h1>Delimiters</h1>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>4.1</td>
+        <td>4.2</td>
+        <td>4.3</td>
+        <td>4.4</td>
+      </tr>
+      <tr>
+        <td>4.7</td>
+        <td>4.6</td>
+        <td>4.5</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <p> Here it is in a way that should look familiar to you using the 7 elements in word form.
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>.docwrit</th>
+        <th>order</th>
+        <th>act</th>
+        <th>folder</th>
+        <th>file</th>
+        <th>push</th>
+        <th>pull</th>
+        <th>perif</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>order.order</td>
+        <td>order.act</td>
+        <td>order.folder</td>
+        <td>order.file</td>
+        <td>order.push</td>
+        <td>order.pull</td>
+        <td>order.perif</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>act.order</td>
+        <td>act.act</td>
+        <td>act.folder</td>
+        <td>act.file</td>
+        <td>act.push</td>
+        <td>act.pull</td>
+        <td>act.perif</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>folder.order</td>
+        <td>folder.act</td>
+        <td>folder.folder</td>
+        <td>folder.file</td>
+        <td>folder.push</td>
+        <td>folder.pull</td>
+        <td>folder.perif</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>file.order</td>
+        <td>file.act</td>
+        <td>file.folder</td>
+        <td>file.file</td>
+        <td>file.push</td>
+        <td>file.pull</td>
+        <td>file.perif</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>push.order</td>
+        <td>push.act</td>
+        <td>push.folder</td>
+        <td>push.file</td>
+        <td>push.push</td>
+        <td>push.pull</td>
+        <td>push.perif</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>pull.order</td>
+        <td>pull.act</td>
+        <td>pull.folder</td>
+        <td>pull.file</td>
+        <td>pull.push</td>
+        <td>pull.pull</td>
+        <td>pull.perif</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>perif.order</td>
+        <td>perif.act</td>
+        <td>perif.folder</td>
+        <td>perif.file</td>
+        <td>perif.push</td>
+        <td>perif.pull</td>
+        <td>perif.perif</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h5>Redundancy Cycle</h5>
+  </center>
+  <table class="GeneratedTable">
+    <tbody>
+      <tr>
+        <td>order.order</td>
+        <td>&nbsp</td>
+        <td>order.perif</td>
+      </tr>
+      <tr>
+        <td>act.act</td>
+        <td>&nbsp</td>
+        <td>act.pull</td>
+      </tr>
+      <tr>
+        <td>folder.folder</td>
+        <td>&nbsp</td>
+        <td>folder.push</td>
+      </tr>
+      <tr>
+        <td>file.file</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+      </tr>
+      <tr>
+        <td>push.push</td>
+        <td>&nbsp</td>
+        <td>push.folder</td>
+      </tr>
+      <tr>
+        <td>pull.pull</td>
+        <td>&nbsp</td>
+        <td>pull.act</td>
+      </tr>
+      <tr>
+        <td>perif.perif</td>
+        <td>&nbsp</td>
+        <td>perif.order</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h6>Limiters</h6>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>order.file</td>
+        <td>act.file</td>
+        <td>folder.file</td>
+        <td>file.file</td>
+      </tr>
+      <tr>
+        <td>perif.file</td>
+        <td>pull.file</td>
+        <td>push.file</td>
+        <td>&nbsp</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h7>Delimiters</h7>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>file.order</td>
+        <td>file.act</td>
+        <td>file.folder</td>
+        <td>file.file</td>
+      </tr>
+      <tr>
+        <td>file.perif</td>
+        <td>file.pull</td>
+        <td>file.push</td>
+        <td>&nbsp</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <p>This section explains the command structure with action terms.</p>
+  <br>
+  <table class="GeneratedTable" <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Function</th>
+      <th>Ordinate</th>
+      <th>Source Code</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>order</td>
+        <td>order.order</td>
+        <td>1.1</td>
+        <td>/*var order = "order"*/</td>
+      </tr>
+      <tr>
+        <td>orderact</td>
+        <td>order.act</td>
+        <td>1.2</td>
+        <td>/*var orderact = "orderact"*/</td>
+      </tr>
+      <tr>
+        <td>orderset</td>
+        <td>order.folder</td>
+        <td>1.3</td>
+        <td>/*var orderset = "orderset"*/</td>
+      </tr>
+      <tr>
+        <td>docwrit</td>
+        <td>order.file</td>
+        <td>1.4</td>
+        <td>/*var docwrit = "docwrit"*/</td>
+      </tr>
+      <tr>
+        <td>output</td>
+        <td>order.push</td>
+        <td>1.5</td>
+        <td>/*var output = "output"*/</td>
+      </tr>
+      <tr>
+        <td>orderparts</td>
+        <td>order.pull</td>
+        <td>1.6</td>
+        <td>/*var orderparts = "orderparts"*/</td>
+      </tr>
+      <tr>
+        <td>parts</td>
+        <td>order.perif</td>
+        <td>1.7</td>
+        <td>/*var parts = "parts"*/</td>
+      </tr>
+      <tr>
+        <td>orderfunct</td>
+        <td>act.order</td>
+        <td>2.1</td>
+        <td>/*var orderfunct = "orderfunct"*/</td>
+      </tr>
+      <tr>
+        <td>act</td>
+        <td>act.act</td>
+        <td>2.2</td>
+        <td>/*var act = "act"*/</td>
+      </tr>
+      <tr>
+        <td>actset</td>
+        <td>act.folder</td>
+        <td>2.3</td>
+        <td>/*var actset = "actset"*/</td>
+      </tr>
+      <tr>
+        <td>Element</td>
+        <td>act.file</td>
+        <td>2.4</td>
+        <td>/*var element = "element"*/</td>
+      </tr>
+      <tr>
+        <td>relay</td>
+        <td>act.push</td>
+        <td>2.5</td>
+        <td>/*var relay = "relay"*/</td>
+      </tr>
+      <tr>
+        <td>Redun</td>
+        <td>act.pull</td>
+        <td>2.6</td>
+        <td>/*var Redun = "Redun"*/</td>
+      </tr>
+      <tr>
+        <td>Modifier</td>
+        <td>act.perif</td>
+        <td>2.7</td>
+        <td>/*var modifier = "modifier"*/</td>
+      </tr>
+      <tr>
+        <td>class</td>
+        <td>folder.order</td>
+        <td>3.1</td>
+        <td>/*var class = "class"*/</td>
+      </tr>
+      <tr>
+        <td>type</td>
+        <td>folder.act</td>
+        <td>3.2</td>
+        <td>/*var type = "type"*/</td>
+      </tr>
+      <tr>
+        <td>folder</td>
+        <td>folder.folder</td>
+        <td>3.3</td>
+        <td>/*var folder = "folder"*/</td>
+      </tr>
+      <tr>
+        <td>collection</td>
+        <td>folder.file</td>
+        <td>3.4</td>
+        <td>/*var collection = "colletion"*/</td>
+      </tr>
+      <tr>
+        <td>Temp</td>
+        <td>folder.push</td>
+        <td>3.5</td>
+        <td>/*var temp = "temp"*/</td>
+      </tr>
+      <tr>
+        <td>role</td>
+        <td>folder.pull</td>
+        <td>3.6</td>
+        <td>/*var role = "role"*/</td>
+      </tr>
+      <tr>
+        <td>log</td>
+        <td>folder.perif</td>
+        <td>3.7</td>
+        <td>/*var log = "log"*/</td>
+      </tr>
+      <tr>
+        <td>addvar</td>
+        <td>file.order</td>
+        <td>4.1</td>
+        <td>/*var addvar = "addvar"*/</td>
+      </tr>
+      <tr>
+        <td>store</td>
+        <td>file.act</td>
+        <td>4.2</td>
+        <td>/*var store = "store"*/</td>
+      </tr>
+      <tr>
+        <td>Catalogue</td>
+        <td>file.folder</td>
+        <td>4.3</td>
+        <td>/*var catalogue = "catalogue"*/</td>
+      </tr>
+      <tr>
+        <td>file</td>
+        <td>file.file</td>
+        <td>4.4</td>
+        <td>/*var file = "file"*/</td>
+      </tr>
+      <tr>
+        <td>tempfile</td>
+        <td>file.push</td>
+        <td>4.5</td>
+        <td>/*var tempfile = "tempfile"*/</td>
+      </tr>
+      <tr>
+        <td>commit</td>
+        <td>file.pull</td>
+        <td>4.6</td>
+        <td>/*var commit = "commit"*/</td>
+      </tr>
+      <tr>
+        <td>tag</td>
+        <td>file.perif</td>
+        <td>4.7</td>
+        <td>/*var tag = "tag"*/</td>
+      </tr>
+      <tr>
+        <td>go</td>
+        <td>push.order</td>
+        <td>5.1</td>
+        <td>/*var go = "go"*/</td>
+      </tr>
+      <tr>
+        <td>trigger</td>
+        <td>push.act</td>
+        <td>5.2</td>
+        <td>/*var trigger = "trigger"*/</td>
+      </tr>
+      <tr>
+        <td>pushset</td>
+        <td>push.folder</td>
+        <td>5.3</td>
+        <td>/*var pushset = "pushset"*/</td>
+      </tr>
+      <tr>
+        <td>webparts</td>
+        <td>push.file</td>
+        <td>5.4</td>
+        <td>/*var webparts = "webparts"*/</td>
+      </tr>
+      <tr>
+        <td>Push</td>
+        <td>push.push</td>
+        <td>5.5</td>
+        <td>/*var push = "push"*/</td>
+      </tr>
+      <tr>
+        <td>send</td>
+        <td>push.pull</td>
+        <td>5.6</td>
+        <td>/*var send = "send"*/</td>
+      </tr>
+      <tr>
+        <td>form</td>
+        <td>push.perif</td>
+        <td>5.7</td>
+        <td>/*var form = "form"*/</td>
+      </tr>
+      <tr>
+        <td>array</td>
+        <td>pull.order</td>
+        <td>6.1</td>
+        <td>/*var array = "array"*/</td>
+      </tr>
+      <tr>
+        <td>request</td>
+        <td>pull.act</td>
+        <td>6.2</td>
+        <td>/*var request = "request"*/</td>
+      </tr>
+      <tr>
+        <td>pullset</td>
+        <td>pull.folder</td>
+        <td>6.3</td>
+        <td>/*var pullset = "pullset"*/</td>
+      </tr>
+      <tr>
+        <td>table</td>
+        <td>pull.file</td>
+        <td>6.4</td>
+        <td>/*var table = "table"*/</td>
+      </tr>
+      <tr>
+        <td>receive</td>
+        <td>pull.push</td>
+        <td>6.2</td>
+        <td>/*var receive = "receive"*/</td>
+      </tr>
+      <tr>
+        <td>pull</td>
+        <td>pull.pull</td>
+        <td>6.6</td>
+        <td>/*var pull = "pull"*/</td>
+      </tr>
+      <tr>
+        <td>formdata</td>
+        <td>pull.perif</td>
+        <td>6.7</td>
+        <td>/*var formdata = "formdata"*/</td>
+      </tr>
+      <tr>
+        <td>If</td>
+        <td>perif.order</td>
+        <td>7.1</td>
+        <td>/*var if = "if"*/</td>
+      </tr>
+      <tr>
+        <td>authenticate</td>
+        <td>perif.act</td>
+        <td>7.2</td>
+        <td>/*var authenticate= "authenticate"*/</td>
+      </tr>
+      <tr>
+        <td>perifset</td>
+        <td>perif.folder</td>
+        <td>7.3</td>
+        <td>/*var perifset = "perifset"*/</td>
+      </tr>
+      <tr>
+        <td>peripheral</td>
+        <td>perif.file</td>
+        <td>7.4</td>
+        <td>/*var peripheral= "peripheral"*/</td>
+      </tr>
+      <tr>
+        <td>query</td>
+        <td>perif.push</td>
+        <td>7.5</td>
+        <td>/*var query = "query"*/</td>
+      </tr>
+      <tr>
+        <td>modify</td>
+        <td>perif.pull</td>
+        <td>7.6</td>
+        <td>/*var modify = "modify"*/</td>
+      </tr>
+      <tr>
+        <td>perif</td>
+        <td>perif.perif</td>
+        <td>6.2</td>
+        <td>/*var perif = "perif"*/</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  Here it is all together:
+  <br>
+  <table class="GeneratedTable" <thead>
+    <tr>
+      <th>0</th>
+      <th>order</th>
+      <th>act</th>
+      <th>folder</th>
+      <th>file</th>
+      <th>push</th>
+      <th>pull</th>
+      <th>perif</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>order</td>
+        <td>orderact</td>
+        <td>orderset</td>
+        <td>docwrit</td>
+        <td>output</td>
+        <td>orderparts</td>
+        <td>parts</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>orderfunct</td>
+        <td>act</td>
+        <td>actset</td>
+        <td>element</td>
+        <td>relay</td>
+        <td>redun</td>
+        <td>modifier</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>class</td>
+        <td>type</td>
+        <td>folder</td>
+        <td>collection</td>
+        <td>temp</td>
+        <td>role</td>
+        <td>log</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>addvar</td>
+        <td>store</td>
+        <td>catalogue</td>
+        <td>file</td>
+        <td>tempfile</td>
+        <td>commit</td>
+        <td>tag</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>go</td>
+        <td>trigger</td>
+        <td>pushset</td>
+        <td>webparts</td>
+        <td>push</td>
+        <td>send</td>
+        <td>form</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>array</td>
+        <td>request</td>
+        <td>pullset</td>
+        <td>table</td>
+        <td>receive</td>
+        <td>pull</td>
+        <td>formdata</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>if</td>
+        <td>authenticate</td>
+        <td>gather</td>
+        <td>condense</td>
+        <td>query</td>
+        <td>modify</td>
+        <td>perif</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    The elements of operating appear to be following the flow of a search engine. This search engine is searching a database of like commands that interact with detachable reasoning for each. They act in redundancy to make the element of command common within reasoning (eg. logic) so that common elements of style and script are selected to be put into an html document to build apps and websites from common search terms. This would take extensive "bootstrap" databases for style and script elements. The only thing you need is a space and a search bar.
+</body>
+</p>
+</p>
+</h2>
+</h2< /h1>
+</h1>
+<p>
+  <foot>
+    <p>This project was built by Jason L. Davis Enterprises EIN*1127464 DUNS*30889 FRN*95169
+    <p>
+  </foot><body>
+  <H1>The 7 elements of .docwrit are Order, Act, Folder, File, Push, Pull, and Perif.</H1>
+  <h2> Input the elements for the variable that you want to create.</h2>
+  <form>
+    <label for=order:>order: </label><input id="order" type="text" /br><br /><br />
+    <label for=act:>act: </label><input id="act" type="text" /br><br /><br />
+    <label for=folder:>folder:</label><input id="folder" type="text" /br><br /><br />
+    <label for=file:>file: </label><input id="file" type="text" /br><br /><br />
+    <label for=push:>push: </label><input id="push" type="text" /br><br /><br />
+    <label for=pull:>pull: </label><input id="pull" type="text" /br><br /><br />
+    <label for=perif:>perif: </label><input id="perif" type="text" /br><br /><br />
+    <label for=addvar:>name: </label><input id="name" type="text" /br><br /><br />
+    <button id="SUBMIT">SUBMIT</button>
+    <script>
+      var submit = document.getElementId("SUBMIT"):
+        submit.onclick = function()(
+          var order = document.getElementId("order").value; document.getElementId("outputOrder").innertext = order;
+          var act = document.getElementId("act").value; document.getElementId("outputAct").innertext = act;
+          var folder = document.getElementId("folder").value; document.getElementId("outputFolder").innertext = folder;
+          var file = document.getElementId("file").value; document.getElementId("outputFile").innertext = file;
+          var push = document.getElementId("push").value; document.getElementId("outputPush").innertext = push;
+          var pull = document.getElementId("pull").value; document.getElementId("outputPull").innertext = pull;
+          var Perif = document.getElementId("Perif").value; document.getElementId("outputPerif").innertext = perif;
+          var name = document.getElementId("name").value; document.getElementId("outputName").innertext = name;
+    </script>
+    <p>
+      <center>The variable you have added is <span id="outputName">----</span>.
+        order: <span id="outputOrder">----</span>
+        act: <span id="outputAct">----</span>
+        folder: <span id="outputFolder">----</span>
+        file: <span id="outputFile">----</span>
+        push: <span id="outputPush">----</span>
+        pull: <span id="outputPull">----</span>
+        perif: <span id="outputPerif">----</span>
+      </center>
+    </p>
+    <br>
+    <style type="text/css" scoped>
+      table.GeneratedTable {
+        width: 100%;
+        background-color: #FFF5EF;
+        border-collapse: collapse;
+        border-width: 3px;
+        border-color: #FFFFFF;
+        border-style: groove;
+        color: #000000;
+      }
+
+      table.GeneratedTable td,
+      table.GeneratedTable th {
+        border-width: 3px;
+        border-color: #FFFFFF;
+        border-style: groove;
+        padding: 20pt;
+      }
+
+      table.GeneratedTable thead {
+        background-color: #FF6900;
+      }
+    </style>
+    <table class="GeneratedTable">
+      <thead>
+        <tr>
+          <th>Order:</th>
+          <th>Act:</th>
+          <th>Folder:</th>
+          <th>File:</th>
+          <th>Push:</th>
+          <th>Pull:</th>
+          <th>Perif:</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+          <td><span id="outputOrder">----</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </form>
+  <p>The variable you have added is <span id="outputName">----</span>
+    order: <span id="outputOrder">----</span>
+    act: <span id="outputAct">----</span>
+    folder: <span id="outputFolder">----</span>
+    file: <span id="outputFile">----</span>
+    push: <span id="outputPush">----</span>
+    pull: <span id="outputPull">----</span>
+    perif: <span id="outputPerif">----</span>
+  </p>
+  <br>
+  &nbsp
+  </br>
+  <center>
+    <H1>.docwrit</H1>
+  </center>
+  <p>The elements of docwrit are meant to be a .Framework OS that functions with document.ready and document.write to create variables (elements) within your website.</p>
+  <p>The elements are meant to interact within the framework so that redundancy is calculated as a triggering mechanism like most computer algorithms, but in this case it will develope cycles of "smart" redundancy as limiters will delimit by collection and key simultaneously within the command which generates further commands written into the html of any website element. These commands within the .docwrit algorithm then produce design functions relative to the development of applications and elements. In other words, the algorithm writes the app from a simple search entry for an app that has specifications.</p>
+
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>.docwrit</th>
+        <th>order</th>
+        <th>act</th>
+        <th>folder</th>
+        <th>file</th>
+        <th>push</th>
+        <th>pull</th>
+        <th>perif</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>1.1</td>
+        <td>1.2</td>
+        <td>1.3</td>
+        <td>1.4</td>
+        <td>1.5</td>
+        <td>1.6</td>
+        <td>1.7</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>2.1</td>
+        <td>2.2</td>
+        <td>2.3</td>
+        <td>2.4</td>
+        <td>2.5</td>
+        <td>2.6</td>
+        <td>2.7</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>3.1</td>
+        <td>3.2</td>
+        <td>3.3</td>
+        <td>3.4</td>
+        <td>3.5</td>
+        <td>3.6</td>
+        <td>3.7</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>4.1</td>
+        <td>4.2</td>
+        <td>4.3</td>
+        <td>4.4</td>
+        <td>4.5</td>
+        <td>4.6</td>
+        <td>4.7</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>5.1</td>
+        <td>5.2</td>
+        <td>5.3</td>
+        <td>5.4</td>
+        <td>5.5</td>
+        <td>5.6</td>
+        <td>5.7</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>6.1</td>
+        <td>6.2</td>
+        <td>6.3</td>
+        <td>6.4</td>
+        <td>6.5</td>
+        <td>6.6</td>
+        <td>6.7</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>7.1</td>
+        <td>7.2</td>
+        <td>7.3</td>
+        <td>7.4</td>
+        <td>7.5</td>
+        <td>7.6</td>
+        <td>7.7</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <center>
+    <h1>Redundancy Cycle<h1>
+  </center>
+  <table class="GeneratedTable">
+    <tbody>
+      <tr>
+        <td>1.1</td>
+        <td>&nbsp</td>
+        <td>1.7</td>
+      </tr>
+      <tr>
+        <td>2.2</td>
+        <td>&nbsp</td>
+        <td>2.6</td>
+      </tr>
+      <tr>
+        <td>3.3</td>
+        <td>&nbsp</td>
+        <td>3.5</td>
+      </tr>
+      <tr>
+        <td>4.4</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+      </tr>
+      <tr>
+        <td>5.5</td>
+        <td>&nbsp</td>
+        <td>5.3</td>
+      </tr>
+      <tr>
+        <td>6.6</td>
+        <td>&nbsp</td>
+        <td>6.2</td>
+      </tr>
+      <tr>
+        <td>7.7</td>
+        <td>&nbsp</td>
+        <td>7.1</td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <center>
+    <h7>Limiters</h7>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1.4</td>
+        <td>2.4</td>
+        <td>3.4</td>
+        <td>4.4</td>
+      </tr>
+      <tr>
+        <td>7.4</td>
+        <td>6.4</td>
+        <td>5.4</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h1>Delimiters</h1>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>4.1</td>
+        <td>4.2</td>
+        <td>4.3</td>
+        <td>4.4</td>
+      </tr>
+      <tr>
+        <td>4.7</td>
+        <td>4.6</td>
+        <td>4.5</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <p> Here it is in a way that should look familiar to you using the 7 elements in word form.
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>.docwrit</th>
+        <th>order</th>
+        <th>act</th>
+        <th>folder</th>
+        <th>file</th>
+        <th>push</th>
+        <th>pull</th>
+        <th>perif</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>order.order</td>
+        <td>order.act</td>
+        <td>order.folder</td>
+        <td>order.file</td>
+        <td>order.push</td>
+        <td>order.pull</td>
+        <td>order.perif</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>act.order</td>
+        <td>act.act</td>
+        <td>act.folder</td>
+        <td>act.file</td>
+        <td>act.push</td>
+        <td>act.pull</td>
+        <td>act.perif</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>folder.order</td>
+        <td>folder.act</td>
+        <td>folder.folder</td>
+        <td>folder.file</td>
+        <td>folder.push</td>
+        <td>folder.pull</td>
+        <td>folder.perif</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>file.order</td>
+        <td>file.act</td>
+        <td>file.folder</td>
+        <td>file.file</td>
+        <td>file.push</td>
+        <td>file.pull</td>
+        <td>file.perif</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>push.order</td>
+        <td>push.act</td>
+        <td>push.folder</td>
+        <td>push.file</td>
+        <td>push.push</td>
+        <td>push.pull</td>
+        <td>push.perif</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>pull.order</td>
+        <td>pull.act</td>
+        <td>pull.folder</td>
+        <td>pull.file</td>
+        <td>pull.push</td>
+        <td>pull.pull</td>
+        <td>pull.perif</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>perif.order</td>
+        <td>perif.act</td>
+        <td>perif.folder</td>
+        <td>perif.file</td>
+        <td>perif.push</td>
+        <td>perif.pull</td>
+        <td>perif.perif</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h5>Redundancy Cycle</h5>
+  </center>
+  <table class="GeneratedTable">
+    <tbody>
+      <tr>
+        <td>order.order</td>
+        <td>&nbsp</td>
+        <td>order.perif</td>
+      </tr>
+      <tr>
+        <td>act.act</td>
+        <td>&nbsp</td>
+        <td>act.pull</td>
+      </tr>
+      <tr>
+        <td>folder.folder</td>
+        <td>&nbsp</td>
+        <td>folder.push</td>
+      </tr>
+      <tr>
+        <td>file.file</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+      </tr>
+      <tr>
+        <td>push.push</td>
+        <td>&nbsp</td>
+        <td>push.folder</td>
+      </tr>
+      <tr>
+        <td>pull.pull</td>
+        <td>&nbsp</td>
+        <td>pull.act</td>
+      </tr>
+      <tr>
+        <td>perif.perif</td>
+        <td>&nbsp</td>
+        <td>perif.order</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h6>Limiters</h6>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>order.file</td>
+        <td>act.file</td>
+        <td>folder.file</td>
+        <td>file.file</td>
+      </tr>
+      <tr>
+        <td>perif.file</td>
+        <td>pull.file</td>
+        <td>push.file</td>
+        <td>&nbsp</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <br>
+  <center>
+    <h7>Delimiters</h7>
+  </center>
+  <table class="GeneratedTable">
+    <thead>
+      <tr>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+        <th>&nbsp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>file.order</td>
+        <td>file.act</td>
+        <td>file.folder</td>
+        <td>file.file</td>
+      </tr>
+      <tr>
+        <td>file.perif</td>
+        <td>file.pull</td>
+        <td>file.push</td>
+        <td>&nbsp</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  <p>This section explains the command structure with action terms.</p>
+  <br>
+  <table class="GeneratedTable" <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Function</th>
+      <th>Ordinate</th>
+      <th>Source Code</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>order</td>
+        <td>order.order</td>
+        <td>1.1</td>
+        <td>/*var order = "order"*/</td>
+      </tr>
+      <tr>
+        <td>orderact</td>
+        <td>order.act</td>
+        <td>1.2</td>
+        <td>/*var orderact = "orderact"*/</td>
+      </tr>
+      <tr>
+        <td>orderset</td>
+        <td>order.folder</td>
+        <td>1.3</td>
+        <td>/*var orderset = "orderset"*/</td>
+      </tr>
+      <tr>
+        <td>docwrit</td>
+        <td>order.file</td>
+        <td>1.4</td>
+        <td>/*var docwrit = "docwrit"*/</td>
+      </tr>
+      <tr>
+        <td>output</td>
+        <td>order.push</td>
+        <td>1.5</td>
+        <td>/*var output = "output"*/</td>
+      </tr>
+      <tr>
+        <td>orderparts</td>
+        <td>order.pull</td>
+        <td>1.6</td>
+        <td>/*var orderparts = "orderparts"*/</td>
+      </tr>
+      <tr>
+        <td>parts</td>
+        <td>order.perif</td>
+        <td>1.7</td>
+        <td>/*var parts = "parts"*/</td>
+      </tr>
+      <tr>
+        <td>orderfunct</td>
+        <td>act.order</td>
+        <td>2.1</td>
+        <td>/*var orderfunct = "orderfunct"*/</td>
+      </tr>
+      <tr>
+        <td>act</td>
+        <td>act.act</td>
+        <td>2.2</td>
+        <td>/*var act = "act"*/</td>
+      </tr>
+      <tr>
+        <td>actset</td>
+        <td>act.folder</td>
+        <td>2.3</td>
+        <td>/*var actset = "actset"*/</td>
+      </tr>
+      <tr>
+        <td>Element</td>
+        <td>act.file</td>
+        <td>2.4</td>
+        <td>/*var element = "element"*/</td>
+      </tr>
+      <tr>
+        <td>relay</td>
+        <td>act.push</td>
+        <td>2.5</td>
+        <td>/*var relay = "relay"*/</td>
+      </tr>
+      <tr>
+        <td>Redun</td>
+        <td>act.pull</td>
+        <td>2.6</td>
+        <td>/*var Redun = "Redun"*/</td>
+      </tr>
+      <tr>
+        <td>Modifier</td>
+        <td>act.perif</td>
+        <td>2.7</td>
+        <td>/*var modifier = "modifier"*/</td>
+      </tr>
+      <tr>
+        <td>class</td>
+        <td>folder.order</td>
+        <td>3.1</td>
+        <td>/*var class = "class"*/</td>
+      </tr>
+      <tr>
+        <td>type</td>
+        <td>folder.act</td>
+        <td>3.2</td>
+        <td>/*var type = "type"*/</td>
+      </tr>
+      <tr>
+        <td>folder</td>
+        <td>folder.folder</td>
+        <td>3.3</td>
+        <td>/*var folder = "folder"*/</td>
+      </tr>
+      <tr>
+        <td>collection</td>
+        <td>folder.file</td>
+        <td>3.4</td>
+        <td>/*var collection = "colletion"*/</td>
+      </tr>
+      <tr>
+        <td>Temp</td>
+        <td>folder.push</td>
+        <td>3.5</td>
+        <td>/*var temp = "temp"*/</td>
+      </tr>
+      <tr>
+        <td>role</td>
+        <td>folder.pull</td>
+        <td>3.6</td>
+        <td>/*var role = "role"*/</td>
+      </tr>
+      <tr>
+        <td>log</td>
+        <td>folder.perif</td>
+        <td>3.7</td>
+        <td>/*var log = "log"*/</td>
+      </tr>
+      <tr>
+        <td>addvar</td>
+        <td>file.order</td>
+        <td>4.1</td>
+        <td>/*var addvar = "addvar"*/</td>
+      </tr>
+      <tr>
+        <td>store</td>
+        <td>file.act</td>
+        <td>4.2</td>
+        <td>/*var store = "store"*/</td>
+      </tr>
+      <tr>
+        <td>Catalogue</td>
+        <td>file.folder</td>
+        <td>4.3</td>
+        <td>/*var catalogue = "catalogue"*/</td>
+      </tr>
+      <tr>
+        <td>file</td>
+        <td>file.file</td>
+        <td>4.4</td>
+        <td>/*var file = "file"*/</td>
+      </tr>
+      <tr>
+        <td>tempfile</td>
+        <td>file.push</td>
+        <td>4.5</td>
+        <td>/*var tempfile = "tempfile"*/</td>
+      </tr>
+      <tr>
+        <td>commit</td>
+        <td>file.pull</td>
+        <td>4.6</td>
+        <td>/*var commit = "commit"*/</td>
+      </tr>
+      <tr>
+        <td>tag</td>
+        <td>file.perif</td>
+        <td>4.7</td>
+        <td>/*var tag = "tag"*/</td>
+      </tr>
+      <tr>
+        <td>go</td>
+        <td>push.order</td>
+        <td>5.1</td>
+        <td>/*var go = "go"*/</td>
+      </tr>
+      <tr>
+        <td>trigger</td>
+        <td>push.act</td>
+        <td>5.2</td>
+        <td>/*var trigger = "trigger"*/</td>
+      </tr>
+      <tr>
+        <td>pushset</td>
+        <td>push.folder</td>
+        <td>5.3</td>
+        <td>/*var pushset = "pushset"*/</td>
+      </tr>
+      <tr>
+        <td>webparts</td>
+        <td>push.file</td>
+        <td>5.4</td>
+        <td>/*var webparts = "webparts"*/</td>
+      </tr>
+      <tr>
+        <td>Push</td>
+        <td>push.push</td>
+        <td>5.5</td>
+        <td>/*var push = "push"*/</td>
+      </tr>
+      <tr>
+        <td>send</td>
+        <td>push.pull</td>
+        <td>5.6</td>
+        <td>/*var send = "send"*/</td>
+      </tr>
+      <tr>
+        <td>form</td>
+        <td>push.perif</td>
+        <td>5.7</td>
+        <td>/*var form = "form"*/</td>
+      </tr>
+      <tr>
+        <td>array</td>
+        <td>pull.order</td>
+        <td>6.1</td>
+        <td>/*var array = "array"*/</td>
+      </tr>
+      <tr>
+        <td>request</td>
+        <td>pull.act</td>
+        <td>6.2</td>
+        <td>/*var request = "request"*/</td>
+      </tr>
+      <tr>
+        <td>pullset</td>
+        <td>pull.folder</td>
+        <td>6.3</td>
+        <td>/*var pullset = "pullset"*/</td>
+      </tr>
+      <tr>
+        <td>table</td>
+        <td>pull.file</td>
+        <td>6.4</td>
+        <td>/*var table = "table"*/</td>
+      </tr>
+      <tr>
+        <td>receive</td>
+        <td>pull.push</td>
+        <td>6.2</td>
+        <td>/*var receive = "receive"*/</td>
+      </tr>
+      <tr>
+        <td>pull</td>
+        <td>pull.pull</td>
+        <td>6.6</td>
+        <td>/*var pull = "pull"*/</td>
+      </tr>
+      <tr>
+        <td>formdata</td>
+        <td>pull.perif</td>
+        <td>6.7</td>
+        <td>/*var formdata = "formdata"*/</td>
+      </tr>
+      <tr>
+        <td>If</td>
+        <td>perif.order</td>
+        <td>7.1</td>
+        <td>/*var if = "if"*/</td>
+      </tr>
+      <tr>
+        <td>authenticate</td>
+        <td>perif.act</td>
+        <td>7.2</td>
+        <td>/*var authenticate= "authenticate"*/</td>
+      </tr>
+      <tr>
+        <td>perifset</td>
+        <td>perif.folder</td>
+        <td>7.3</td>
+        <td>/*var perifset = "perifset"*/</td>
+      </tr>
+      <tr>
+        <td>peripheral</td>
+        <td>perif.file</td>
+        <td>7.4</td>
+        <td>/*var peripheral= "peripheral"*/</td>
+      </tr>
+      <tr>
+        <td>query</td>
+        <td>perif.push</td>
+        <td>7.5</td>
+        <td>/*var query = "query"*/</td>
+      </tr>
+      <tr>
+        <td>modify</td>
+        <td>perif.pull</td>
+        <td>7.6</td>
+        <td>/*var modify = "modify"*/</td>
+      </tr>
+      <tr>
+        <td>perif</td>
+        <td>perif.perif</td>
+        <td>6.2</td>
+        <td>/*var perif = "perif"*/</td>
+      </tr>
+    </tbody>
+  </table>
+  </br>
+  Here it is all together:
+  <br>
+  <table class="GeneratedTable" <thead>
+    <tr>
+      <th>0</th>
+      <th>order</th>
+      <th>act</th>
+      <th>folder</th>
+      <th>file</th>
+      <th>push</th>
+      <th>pull</th>
+      <th>perif</th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>order</th>
+        <td>order</td>
+        <td>orderact</td>
+        <td>orderset</td>
+        <td>docwrit</td>
+        <td>output</td>
+        <td>orderparts</td>
+        <td>parts</td>
+      </tr>
+      <tr>
+        <th>act</th>
+        <td>orderfunct</td>
+        <td>act</td>
+        <td>actset</td>
+        <td>element</td>
+        <td>relay</td>
+        <td>redun</td>
+        <td>modifier</td>
+      </tr>
+      <tr>
+        <th>folder</th>
+        <td>class</td>
+        <td>type</td>
+        <td>folder</td>
+        <td>collection</td>
+        <td>temp</td>
+        <td>role</td>
+        <td>log</td>
+      </tr>
+      <tr>
+        <th>file</th>
+        <td>addvar</td>
+        <td>store</td>
+        <td>catalogue</td>
+        <td>file</td>
+        <td>tempfile</td>
+        <td>commit</td>
+        <td>tag</td>
+      </tr>
+      <tr>
+        <th>push</th>
+        <td>go</td>
+        <td>trigger</td>
+        <td>pushset</td>
+        <td>webparts</td>
+        <td>push</td>
+        <td>send</td>
+        <td>form</td>
+      </tr>
+      <tr>
+        <th>pull</th>
+        <td>array</td>
+        <td>request</td>
+        <td>pullset</td>
+        <td>table</td>
+        <td>receive</td>
+        <td>pull</td>
+        <td>formdata</td>
+      </tr>
+      <tr>
+        <th>perif</th>
+        <td>if</td>
+        <td>authenticate</td>
+        <td>gather</td>
+        <td>condense</td>
+        <td>query</td>
+        <td>modify</td>
+        <td>perif</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    The elements of operating appear to be following the flow of a search engine. This search engine is searching a database of like commands that interact with detachable reasoning for each. They act in redundancy to make the element of command common within reasoning (eg. logic) so that common elements of style and script are selected to be put into an html document to build apps and websites from common search terms. This would take extensive "bootstrap" databases for style and script elements. The only thing you need is a space and a search bar.
+</body>
+</p>
+</p>
+</h2>
+</h2< /h1>
+</h1>
+<p>
+  <foot>
+    <p>This project was built by Jason L. Davis Enterprises EIN*1127464 DUNS*30889 FRN*95169
+    <p>
+  </foot>
+  </html>
